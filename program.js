@@ -41,7 +41,7 @@ const REMOVE = (title) => {
     } else {
       notes.splice(notes.indexOf(nba[0]), 1);
       fs.writeFileSync("notes.json", JSON.stringify(notes));
-      console.log(chalk.inverse.yellow(" Done deleting "));
+      console.log(chalk.inverse.yellow(" Done deleting! "));
     }
   }
 };
