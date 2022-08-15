@@ -4,6 +4,9 @@
 A node.js terminal app, that stores notes into the file system using native node libraries and 
 npm modules such as chalk, yargs
 
+## Screenshot
+![image](/Screenshot.png?raw=true)
+
 ## Authors
 
 - [@Bahaeddinferiani](https://www.github.com/https://github.com/Bahaeddinferiani)
