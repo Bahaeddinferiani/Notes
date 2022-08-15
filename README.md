@@ -6,7 +6,7 @@ npm modules such as chalk, yargs
 
 ## Authors
 
-- [@Bahaeddinferiani](https://www.github.com/octokatherine)
+- [@Bahaeddinferiani](https://www.github.com/https://github.com/Bahaeddinferiani)
 
 ## Commands
 
